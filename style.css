@@ -1,0 +1,44 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+}
+
+
+
+body
+{
+    background-color:black!important; 
+    color:white!important;
+}
+
+.counter-section{
+    margin:10% auto;
+    color:#fff; 
+}
+
+.icon-box{
+    border:1px solid #fff; 
+    height:100px;
+    width:100px;
+    margin:20px auto;
+    transform:rotate(45deg);
+}
+
+    .icon-box .fa {
+        font-size: 40px;
+        margin: 25px auto;
+        color: #ffc800;
+        transform: rotate(-45deg);
+    }
+
+    .counter-box p{
+        font-size:20px;
+    }
+
+    .counter-box .counter{
+        font-size:80px;
+    }
+
+.anothersection{
+    height:100vh;
+}
